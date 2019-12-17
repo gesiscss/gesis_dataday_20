@@ -19,7 +19,7 @@ Mit dem DataDay möchten wir den Dialog zwischen Wissenschaft und Öffentlichkei
 
 **Johannes Breuer** ist  ...
 
-**Arnim Bleier** arbeitet als Senior Researcher in der Abteilung *Computational Social Science* bei GESIS. Seine Hauptinteressen sind in den Bereichen der *automatischen Sprachverarbeitung* und Verfahrensentwicklung zur Erleichterung der Reproduzierbarkeit von wissenschaftlichen Ergebnissen. In Kooperation mit Sozialwissenschaftlern arbeitet Herr Bleier an der Modellierung von Struktur und Dynamik von sozialen Phänomenen.
+**Arnim Bleier** arbeitet als Senior Researcher in der Abteilung *Computational Social Science* bei GESIS. Seine Hauptinteressen sind in den Bereichen der *automatischen Sprachverarbeitung* und Verfahrensentwicklung zur Erleichterung der Reproduzierbarkeit von wissenschaftlichen Ergebnissen. In Kooperation mit Sozialwissenschaftlern arbeitet Herr Bleier an der Modellierung von Struktur und Dynamik von sozialen Prozessen.
 
 
 ## Nutzungsrechte
