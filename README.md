@@ -1,4 +1,4 @@
-# [GESIS](https://www.gesis.org/) DataDay 2020
+# GESIS DataDay 2020
 ### Materialien für den [GESIS DataDay 2020](https://www.gesis.org/angebot/veranstaltungen/gesis-tagungen/dataday2020)
 
 **Veranstaltungstermin:** 23.1.2020
