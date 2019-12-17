@@ -14,15 +14,13 @@ read.SentiWS <- function(){
     words <- if (!grepl("^\\s*$", words)) strsplit(x = words, split = ",")[[1]] else NULL
     list(
       word = c(.SD[["word"]][1], words),
-      base = c(TRUE, rep(FALSE, times = length(words))),
       lemma = .SD[["word"]][1],
-      pos = pos,
       weight = weight
     )
   }
 
     dts <- lapply(
-    c(positive = "SentiWS_v1.8c_Positive.txt", negative = "SentiWS_v1.8c_Negative.txt"),
+    c(positive = "SentiWS_v1.8c/SentiWS_v1.8c_Positive.txt", negative = "SentiWS_v1.8c/SentiWS_v1.8c_Negative.txt"),
     function(filename){
       dt <- fread(filename)
       colnames(dt) <- c("word", "data")
