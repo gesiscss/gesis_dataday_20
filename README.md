@@ -1,15 +1,18 @@
 # GESIS DataDay 2020
 ### Materialien für den [GESIS DataDay 2020](https://www.gesis.org/angebot/veranstaltungen/gesis-tagungen/dataday2020)
+
 **Veranstaltungstermin:** 23.1.2020
-
-
-
-Mit dem DataDay möchten wir den Dialog zwischen Wissenschaft und Öffentlichkeit fördern und gemeinsam mit Wissenschaftsjournalisten aus dem Bereich Gesellschaft und insbesondere mit Datenjournalisten ins Gespräch kommen.
 
 **Nutzen Sie Bitte folgen Link für den Zugang zur interaktiven Analyseumgebung:**
 
 [![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/gesis_dataday_20/master?urlpath=lab)
 
+## Kurzbeschreibung
+
+Eintägiger Workshop in Data Science für Journalistinnen und Journalisten: Beobachtung von politischen Themen und Akteuren mit integrierten Datenquellen Social-Media-Daten und andere digitale Spuren erlauben uns, die Aktivitäten gesellschaftlich relevanter Akteure, wie z.B. von Politikerinnen und Politikern, “in situ” zu beobachten und zu analysieren. Dazu lassen sich einerseits Schnittstellen (APIs) von bekannten Plattformen verwenden. Andererseits können diese Daten mit zusätzlichen Quellen verknüpft werden, die z.B. aus weiteren APIs, Webseiteninhalten oder auch Umfragen stammen können. So lässt sich ein umfassendes Bild von Aktivitäten bestimmter Akteure oder Entwicklungen von Themen liefern.
+
+## Unser Ziel
+Mit dem DataDay möchten [wir](https://www.gesis.org/) den Dialog zwischen Wissenschaft und Öffentlichkeit fördern und gemeinsam mit Wissenschaftsjournalisten aus dem Bereich Gesellschaft und insbesondere mit Datenjournalisten ins Gespräch kommen.
 
 ## Referenten
 
