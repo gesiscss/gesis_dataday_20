@@ -13,8 +13,8 @@ read.SentiWS <- function(){
     words <- gsub("^[A-Z]+\\s+-?\\d\\.\\d+\\s*(.*?)\\s*$", "\\1", .SD[["data"]][1])
     words <- if (!grepl("^\\s*$", words)) strsplit(x = words, split = ",")[[1]] else NULL
     list(
-      word = c(.SD[["word"]][1], words),
-      lemma = .SD[["word"]][1],
+      word = tolower(c(.SD[["word"]][1], words)),
+      lemma = tolower(.SD[["word"]][1]),
       weight = weight
     )
   }
