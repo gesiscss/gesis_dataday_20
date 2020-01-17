@@ -16,13 +16,11 @@ Mit dem DataDay möchten wir den Dialog zwischen Wissenschaft und Öffentlichkei
 
 ## Referenten
 
-**Sophie Zervos** ist  ...
-
 **Fabian Flöck** ist ...
 
-**Johannes Breuer** ist Senior Researcher im Team *Data Linking & Data Security* im *Datenarchiv für Sozialwissenschaften* bei GESIS und beschäftigt sich mit der Nutzung von digitalen Verhaltensdaten und ihrer Verknüpfung mit Umfragedaten. Seine weiteren Forschungsinteressen sind die Nutzung und Wirkung digitaler Medien, die Methoden der Mediennutzungs- und -wirkungsforschung (insb. Computational Methods) und Open Science. 
-
 **Arnim Bleier** arbeitet als Senior Researcher in der Abteilung *Computational Social Science* bei GESIS. Seine Hauptinteressen sind in den Bereichen der *automatischen Sprachverarbeitung* und Verfahrensentwicklung zur Erleichterung der Reproduzierbarkeit von wissenschaftlichen Ergebnissen. In Kooperation mit Sozialwissenschaftlern arbeitet Herr Bleier an der Modellierung von Struktur und Dynamik von sozialen Prozessen.
+
+**Johannes Breuer** ist Senior Researcher im Team *Data Linking & Data Security* im *Datenarchiv für Sozialwissenschaften* bei GESIS und beschäftigt sich mit der Nutzung von digitalen Verhaltensdaten und ihrer Verknüpfung mit Umfragedaten. Seine weiteren Forschungsinteressen sind die Nutzung und Wirkung digitaler Medien, die Methoden der Mediennutzungs- und -wirkungsforschung (insb. Computational Methods) und Open Science. 
 
 
 ## Nutzungsrechte
