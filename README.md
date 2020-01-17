@@ -25,8 +25,9 @@ Mit dem DataDay möchten wir den Dialog zwischen Wissenschaft und Öffentlichkei
 
 ## Nutzungsrechte
 
-Materialien lizenziert unter [CC BY-SA 3.0 DE](http://creativecommons.org/licenses/by-sa/3.0/de/)
+Materialien lizenziert unter [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
 
-[![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-sa/3.0/de/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/de/)
+
+[![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 
