@@ -16,11 +16,11 @@ Mit dem DataDay möchten wir den Dialog zwischen Wissenschaft und Öffentlichkei
 
 ## Referenten
 
-**Fabian Flöck** ist ...
+[**Dr. Fabian Flöck**](https://f-squared.org/) ist Senior Researcher und  Leiter des Team Data Science (kommiss.) in der Abteilung *Computational Social Science* bei GESIS. Er beschäftigt sich zur Zeit hauptsächlich mit Transparenz und Fairness von NLP- und Machine-Learning-Pipelines in sozialwissenschaftlichen Kontexten, forscht aber zu interaktiven Datenalayse-Services, kollaborativer Content-Erstellung und digitale Kommunikationsprozessen. 
 
-[**Arnim Bleier**](https://www.gesis.org/person/arnim.bleier) arbeitet als Senior Researcher in der Abteilung *Computational Social Science* bei GESIS. Seine Hauptinteressen sind in den Bereichen der *automatischen Sprachverarbeitung* und Verfahrensentwicklung zur Erleichterung der Reproduzierbarkeit von wissenschaftlichen Ergebnissen. In Kooperation mit Sozialwissenschaftlern arbeitet Herr Bleier an der Modellierung von Struktur und Dynamik von sozialen Prozessen.
+[**Dr. Arnim Bleier**](https://www.gesis.org/person/arnim.bleier) arbeitet als Senior Researcher in der Abteilung *Computational Social Science* bei GESIS. Seine Hauptinteressen sind in den Bereichen der *automatischen Sprachverarbeitung* und Verfahrensentwicklung zur Erleichterung der Reproduzierbarkeit von wissenschaftlichen Ergebnissen. In Kooperation mit Sozialwissenschaftlern arbeitet Herr Bleier an der Modellierung von Struktur und Dynamik von sozialen Prozessen.
 
-[**Johannes Breuer**](https://www.johannesbreuer.com/) ist Senior Researcher im Team *Data Linking & Data Security* im *Datenarchiv für Sozialwissenschaften* bei GESIS und beschäftigt sich mit der Nutzung von digitalen Verhaltensdaten und ihrer Verknüpfung mit Umfragedaten. Seine weiteren Forschungsinteressen sind die Nutzung und Wirkung digitaler Medien, die Methoden der Mediennutzungs- und -wirkungsforschung (insb. Computational Methods) und Open Science. 
+[**Dr. Johannes Breuer**](https://www.johannesbreuer.com/) ist Senior Researcher im Team *Data Linking & Data Security* im *Datenarchiv für Sozialwissenschaften* bei GESIS und beschäftigt sich mit der Nutzung von digitalen Verhaltensdaten und ihrer Verknüpfung mit Umfragedaten. Seine weiteren Forschungsinteressen sind die Nutzung und Wirkung digitaler Medien, die Methoden der Mediennutzungs- und -wirkungsforschung (insb. Computational Methods) und Open Science. 
 
 
 ## Nutzungsrechte
