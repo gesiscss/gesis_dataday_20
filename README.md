@@ -16,7 +16,7 @@ Mit dem DataDay möchten wir den Dialog zwischen Wissenschaft und Öffentlichkei
 
 ## Referenten
 
-[**Dr. Fabian Flöck**](https://f-squared.org/) ist Senior Researcher und  Leiter des Team Data Science (kommiss.) in der Abteilung *Computational Social Science* bei GESIS. Er beschäftigt sich zur Zeit hauptsächlich mit Transparenz und Fairness von NLP- und Machine-Learning-Pipelines in sozialwissenschaftlichen Kontexten, forscht aber zu interaktiven Datenalayse-Services, kollaborativer Content-Erstellung und digitale Kommunikationsprozessen. 
+[**Dr. Fabian Flöck**](https://f-squared.org/) ist Senior Researcher und  Leiter des Team Data Science (kommiss.) in der Abteilung *Computational Social Science* bei GESIS. Er beschäftigt sich zur Zeit hauptsächlich mit Transparenz und Fairness von NLP- und Machine-Learning-Pipelines in sozialwissenschaftlichen Kontexten, forscht aber ebenso zu interaktiven Datenalayse-Services, kollaborativer Content-Erstellung und digitalen Kommunikationsprozessen. 
 
 [**Dr. Arnim Bleier**](https://www.gesis.org/person/arnim.bleier) arbeitet als Senior Researcher in der Abteilung *Computational Social Science* bei GESIS. Seine Hauptinteressen sind in den Bereichen der *automatischen Sprachverarbeitung* und Verfahrensentwicklung zur Erleichterung der Reproduzierbarkeit von wissenschaftlichen Ergebnissen. In Kooperation mit Sozialwissenschaftlern arbeitet Herr Bleier an der Modellierung von Struktur und Dynamik von sozialen Prozessen.
 
