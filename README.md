@@ -14,9 +14,9 @@ Eintägiger Workshop in Data Science für Journalistinnen und Journalisten: Beob
 ## Unser Ziel
 Mit dem DataDay möchten wir den Dialog zwischen Wissenschaft und Öffentlichkeit fördern und gemeinsam mit Wissenschaftsjournalisten aus dem Bereich Gesellschaft und insbesondere mit Datenjournalisten ins Gespräch kommen.
 
-## Programm
+## Agenda
 
-| []()  | []()    |
+| []()  | Programmpunkte |
 | -------------|-------------|
 | 10.00 Uhr | Begrüßung (Sophie Zervos) |
 | 10.30 Uhr | Vorstellung [Media Monitoring](http://mediamonitoring.gesis.org/) |
