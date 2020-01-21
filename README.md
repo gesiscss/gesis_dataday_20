@@ -22,7 +22,7 @@ Mit dem DataDay möchten wir den Dialog zwischen Wissenschaft und Öffentlichkei
 | 10.30 Uhr | Vorstellung [Media Monitoring](http://mediamonitoring.gesis.org/) |
 | 11.00 Uhr | Vorstellung [GESIS Notebooks](http://notebooks.gesis.org/) |
 | 11.20 Uhr | Kaffepause |
-| 11.35 Uhr | Media Monitoring Queries in R auf GESIS Notebooks |
+| 11.35 Uhr | Media Monitoring API |
 | 13.15 Uhr | Mittagessen |
 | 14.00 Uhr | Twitter-Scraping und Textmining |
 | 15.30 Uhr | Kaffepause |
