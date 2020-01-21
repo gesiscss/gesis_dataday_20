@@ -13,5 +13,5 @@ http://mediamonitoring.gesis.org/api/organizations/all/
 
 
 Hilfs-URLs Twitter: <br>
-Twitter-Namen über Twitter-ID (für manuelle Inspektion): https://twitter.com/intent/user?user_id=1644982368  (ID ersetzen)<br>
+Twitter-Namen über Twitter-ID: https://twitter.com/intent/user?user_id=1644982368  (ID ersetzen)<br>
 Einzelner Tweet über TweetID: https://twitter.com/egalwashiersteht/status/1143534386845011968   (ID ersetzen)
