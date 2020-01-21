@@ -1,3 +1,8 @@
+GESIS Notebooks
+-------------------------------------
+Zum Anmelden bei GESIS Notebooks (eigener Account):
+https://notebooks.gesis.org/  → “LOGIN” → dann ganz unten “Register” → Eintragen → Link in Email bestätigen
+
 Social Media Monitoring 
 ------------------------------------
 URL: http://mediamonitoring.gesis.org
@@ -13,5 +18,5 @@ http://mediamonitoring.gesis.org/api/organizations/all/
 
 
 Hilfs-URLs Twitter: <br>
-Twitter-Namen über Twitter-ID: https://twitter.com/intent/user?user_id=1644982368  (ID ersetzen)<br>
-Einzelner Tweet über TweetID: https://twitter.com/egalwashiersteht/status/1143534386845011968   (ID ersetzen)
+Twitter-Namen über User-ID: https://twitter.com/intent/user?user_id=1644982368  (ID ersetzen)<br>
+Einzelner Tweet über Tweet-ID: https://twitter.com/egalwashiersteht/status/1143534386845011968   (ID ersetzen)
