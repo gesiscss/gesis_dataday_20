@@ -1,6 +1,6 @@
 Social Media Monitoring 
 ------------------------------------
-URL: mediamonitoring.gesis.org
+URL: http://mediamonitoring.gesis.org
 
 Präsentation SMM: 
 https://docs.google.com/presentation/d/1eGvyeGZYWFCGZ5qNU1oMQPLWKW-p6iNFAjn6hprUXdc/edit?usp=sharing 
