@@ -1,7 +1,7 @@
 # GESIS DataDay 2020
 ### Materialien für den [GESIS DataDay 2020](https://www.gesis.org/angebot/veranstaltungen/gesis-tagungen/dataday2020)
 
-**Veranstaltungstermin:** 23.1.2020
+**Veranstaltungstermin:** 23.01.2020
 
 **Nutzen Sie Bitte folgen Link für den Zugang zur interaktiven Analyseumgebung:**
 
@@ -9,10 +9,10 @@
 
 ## Kurzbeschreibung
 
-Eintägiger Workshop in Data Science für Journalistinnen und Journalisten: Beobachtung von politischen Themen und Akteuren mit integrierten Datenquellen Social-Media-Daten und andere digitale Spuren erlauben uns, die Aktivitäten gesellschaftlich relevanter Akteure, wie z.B. von Politikerinnen und Politikern, “in situ” zu beobachten und zu analysieren. Dazu lassen sich einerseits Schnittstellen (APIs) von bekannten Plattformen verwenden. Andererseits können diese Daten mit zusätzlichen Quellen verknüpft werden, die z.B. aus weiteren APIs, Webseiteninhalten oder auch Umfragen stammen können. So lässt sich ein umfassendes Bild von Aktivitäten bestimmter Akteure oder Entwicklungen von Themen liefern.
+Eintägiger Workshop in Data Science für Journalist_innen: Beobachtung von politischen Themen und Akteuren mit integrierten Datenquellen. Social-Media-Daten und andere digitale Spuren erlauben uns, die Aktivitäten gesellschaftlich relevanter Akteure, wie z.B. von Politiker_innen, “in situ” zu beobachten und zu analysieren. Dazu lassen sich einerseits Schnittstellen (APIs) von bekannten Plattformen verwenden. Andererseits können diese Daten mit zusätzlichen Quellen verknüpft werden, die z.B. aus weiteren APIs oder Webseiteninhalten stammen können. So lässt sich ein umfassendes Bild von Aktivitäten bestimmter Akteure oder Entwicklungen von Themen liefern.
 
 ## Unser Ziel
-Mit dem DataDay möchten wir den Dialog zwischen Wissenschaft und Öffentlichkeit fördern und gemeinsam mit Wissenschaftsjournalisten aus dem Bereich Gesellschaft und insbesondere mit Datenjournalisten ins Gespräch kommen.
+Mit dem DataDay möchten wir den Dialog zwischen Wissenschaft und Öffentlichkeit fördern und gemeinsam mit Wissenschaftsjournalist_innen aus dem Bereich Gesellschaft und Datenjournalist_innen ins Gespräch kommen.
 
 ## Agenda
 
@@ -20,14 +20,14 @@ Mit dem DataDay möchten wir den Dialog zwischen Wissenschaft und Öffentlichkei
 | -------------|-------------|
 | 10.00 Uhr | Begrüßung|
 | 10.30 Uhr | Vorstellung [Media Monitoring](http://mediamonitoring.gesis.org/) |
-| 11.00 Uhr | Vorstellung [GESIS Notebooks](http://notebooks.gesis.org/) |
-| 11.20 Uhr | Kaffepause |
-| 11.35 Uhr | Media Monitoring API |
+| 11.15 Uhr | Kaffeepause |
+| 11.30 Uhr | Vorstellung [GESIS Notebooks](http://notebooks.gesis.org/) |
+| 12.15 Uhr | Media Monitoring API |
 | 13.15 Uhr | Mittagessen |
 | 14.00 Uhr | Twitter-Scraping und Textmining |
-| 15.30 Uhr | Kaffepause |
-| 16.00 Uhr | Facebook Ad Library |
-| 17.30 Uhr | Get together bei Kölsch und Imbiss |
+| 15.30 Uhr | Kaffeepause |
+| 15.45 Uhr | Facebook Ad Library |
+| 17.30 Uhr | Get Together bei Kölsch und Imbiss |
 
 ## Referenten
 
