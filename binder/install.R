@@ -1,3 +1,8 @@
 install.packages("tidyverse", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("tidytext", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("data.table", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("httr", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("scales", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("lemon", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("sf", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("tmap", repos = "https://cloud.r-project.org/", dependencies=TRUE)

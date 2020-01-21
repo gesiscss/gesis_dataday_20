@@ -14,6 +14,21 @@ Eintägiger Workshop in Data Science für Journalistinnen und Journalisten: Beob
 ## Unser Ziel
 Mit dem DataDay möchten wir den Dialog zwischen Wissenschaft und Öffentlichkeit fördern und gemeinsam mit Wissenschaftsjournalisten aus dem Bereich Gesellschaft und insbesondere mit Datenjournalisten ins Gespräch kommen.
 
+## Agenda
+
+| []()  | Programmpunkte |
+| -------------|-------------|
+| 10.00 Uhr | Begrüßung|
+| 10.30 Uhr | Vorstellung [Media Monitoring](http://mediamonitoring.gesis.org/) |
+| 11.00 Uhr | Vorstellung [GESIS Notebooks](http://notebooks.gesis.org/) |
+| 11.20 Uhr | Kaffepause |
+| 11.35 Uhr | Media Monitoring API |
+| 13.15 Uhr | Mittagessen |
+| 14.00 Uhr | Twitter-Scraping und Textmining |
+| 15.30 Uhr | Kaffepause |
+| 16.00 Uhr | Facebook Ad Library |
+| 17.30 Uhr | Get together bei Kölsch und Imbiss |
+
 ## Referenten
 
 [**Dr. Fabian Flöck**](https://f-squared.org/) ist Senior Researcher und  Leiter des Team Data Science (kommiss.) in der Abteilung *Computational Social Science* bei GESIS. Er beschäftigt sich zur Zeit hauptsächlich mit Transparenz und Fairness von NLP- und Machine-Learning-Pipelines in sozialwissenschaftlichen Kontexten, forscht aber ebenso zu interaktiven Datenalayse-Services, kollaborativer Content-Erstellung und digitalen Kommunikationsprozessen. 
