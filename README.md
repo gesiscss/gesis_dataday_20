@@ -18,12 +18,13 @@ Mit dem DataDay möchten wir den Dialog zwischen Wissenschaft und Öffentlichkei
 
 | []()  | Programmpunkte |
 | -------------|-------------|
-| 10.00 Uhr | Begrüßung (Sophie Zervos) |
+| 10.00 Uhr | Begrüßung|
 | 10.30 Uhr | Vorstellung [Media Monitoring](http://mediamonitoring.gesis.org/) |
-| 11.30 Uhr | Kaffepause |
-| 11.45 Uhr | Vorstellung [Media Monitoring](http://mediamonitoring.gesis.org/) |
+| 11.00 Uhr | Vorstellung [GESIS Notebooks](http://notebooks.gesis.org/) |
+| 11.20 Uhr | Kaffepause |
+| 11.35 Uhr | Media Monitoring Queries in R auf GESIS Notebooks |
 | 13.15 Uhr | Mittagessen |
-| 14.00 Uhr | Abgeordnetenwatch und Twitter |
+| 14.00 Uhr | Twitter-Scraping und Textmining |
 | 15.30 Uhr | Kaffepause |
 | 16.00 Uhr | Facebook Ad Library |
 | 17.30 Uhr | Get together bei Kölsch und Imbiss |
