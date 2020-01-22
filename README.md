@@ -3,7 +3,7 @@
 
 **Veranstaltungstermin:** 23.01.2020
 
-**Nutzen Sie Bitte folgen Link für den Zugang zur interaktiven Analyseumgebung:**
+**Bitte nutzen Sie den folgenden Link für den Zugang zur interaktiven Analyseumgebung:**
 
 [![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/gesis_dataday_20/master?urlpath=lab)
 
