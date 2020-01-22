@@ -20,3 +20,20 @@ http://mediamonitoring.gesis.org/api/organizations/all/
 Hilfs-URLs Twitter: <br>
 Twitter-Namen über User-ID: https://twitter.com/intent/user?user_id=1644982368  (ID ersetzen)<br>
 Einzelner Tweet über Tweet-ID: https://twitter.com/egalwashiersteht/status/1143534386845011968   (ID ersetzen)
+
+Facebook Ad Library
+------------------------------------
+Facebook-Werbeberichte für Deutschland: <br> https://www.facebook.com/ads/library/report/?source=archive-landing-page&country=DE
+
+Ad Library API: <br>
+https://www.facebook.com/ads/library/api
+
+Facebook API Explorer: <br>
+https://developers.facebook.com/tools/explorer/
+
+Access Token Debugger: <br>
+https://developers.facebook.com/tools/debug/accesstoken/
+
+Facebook Page ID finden: <br>
+Firefox: Entsprechende Facebook-Seite aufrufen -> Rechtsklick -> Seiteninformationen anzeigen -> Wert id=xxxxxxxxx finden <br>
+Chrome: Entsprechende Facebook-Seite aufrufen -> Rechtsklick -> Seitenquelltext anzeigen -> nach "page_id=" suchen
