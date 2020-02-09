@@ -10,7 +10,7 @@ Social Media Monitoring
 URL: http://mediamonitoring.gesis.org
 
 Präsentation SMM: <br>
-https://docs.google.com/presentation/d/1c7FcCFoP-Cg02R9rJCbLX_uMxnOz8bTMQRIeMlTdd7Q/edit?usp=sharing 
+https://docs.google.com/presentation/d/1L_Bx4oCfRfqtdJTmRvXh99Oy0ZTV2YMjX0PlLWhJIzQ
 
 Alle Politiker: <br>
 http://mediamonitoring.gesis.org/api/politicians/all/
